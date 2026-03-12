@@ -1,0 +1,203 @@
+{
+  "company": {
+    "name": "7-24 Klima Servisi",
+    "shortName": "7-24 Klima",
+    "tagline": "Klima Servisi",
+    "phone": "905055901203",
+    "phoneDisplay": "0505 590 1203",
+    "phoneSecondary": "0505 590 1203",
+    "whatsappMessage": "Merhaba, klima servisi hakkında bilgi almak istiyorum.",
+    "email": "info@7-24klima.com",
+    "emailSecondary": "servis@7-24klima.com",
+    "url": "https://7-24klima.com",
+    "address": {
+      "locality": "İstanbul",
+      "country": "TR",
+      "region": "Marmara Bölgesi",
+      "serviceArea": "İstanbul Avrupa ve Anadolu Yakası tüm ilçeler"
+    },
+    "priceRange": "₺₺",
+    "logoInitial": "7",
+    "establishedYear": "2009",
+    "slogan": "Güvenilir, Hızlı ve Garantili Klima Çözümleri",
+    "copyright": "© 2026 7-24 Klima Servisi. Tüm hakları saklıdır."
+  },
+  "contact": {
+    "topBarLabel": "7/24 Açık",
+    "ctaPhoneLabel": "Hemen Ara",
+    "ctaWhatsappLabel": "WhatsApp ile Yaz",
+    "whatsappShortLabel": "WhatsApp",
+    "responseTime": "Ortalama 30 dakika içinde geri dönüş",
+    "emergencyService": "Acil klima arızalarında hızlı müdahale"
+  },
+  "nav": {
+    "items": [
+      { "label": "Anasayfa", "href": "/" },
+      { "label": "Hizmetlerimiz", "href": "/#hizmetler" },
+      { "label": "Klima Tipleri", "href": "/#klima-tipleri" },
+      { "label": "Blog", "href": "/blog" },
+      { "label": "Hakkımızda", "href": "/#hakkimizda" },
+      { "label": "İletişim", "href": "/#iletisim" }
+    ]
+  },
+  "hero": {
+    "badge": "7 Gün 24 Saat Açık",
+    "headline": "Profesyonel Klima",
+    "headlineSub": "Kurulum, Tamir ve Bakım ",
+    "description": "Kanallı, kaset tipi, salon tipi, duvar tipi, sanayi tipi, split, multisplit ve VRF klima sistemlerinde uzman teknik servis hizmeti sunuyoruz. Konut ve ticari alanlar için hızlı ve garantili çözümler.",
+    "servicesLinkLabel": "Hizmetlerimizi Keşfedin",
+    "stats": [
+      { "iconKey": "clock", "label": "7/24 Hizmet", "desc": "Her gün, her saat kesintisiz destek" },
+      { "iconKey": "shield", "label": "Garantili İşçilik", "desc": "Tüm işlemler garanti kapsamındadır" },
+      { "iconKey": "wrench", "label": "15+ Yıl Deneyim", "desc": "Uzman ve sertifikalı ekip" }
+    ]
+  },
+  "brands": {
+    "heading": "Tüm Markalara Hizmet Veriyoruz",
+    "description": "Yerli ve yabancı tüm klima markalarına profesyonel bakım, onarım ve montaj hizmeti sunmaktayız.",
+    "items": [
+      "Daikin",
+      "Mitsubishi Electric",
+      "Samsung",
+      "LG",
+      "Toshiba",
+      "Carrier",
+      "Arçelik",
+      "Vestel",
+      "Bosch",
+      "Panasonic",
+      "General Electric",
+      "Baymak",
+      "Demirdöküm",
+      "Fujitsu"
+    ]
+  },
+  "sections": {
+    "hizmetler": {
+      "badge": "Hizmetlerimiz",
+      "title": "Kurulum, Tamir ve Bakım Çözümleri",
+      "description": "Tüm klima sistemlerinde profesyonel kurulum, arıza onarımı, gaz dolumu, elektronik kart tamiri ve periyodik bakım hizmetleri sunuyoruz.",
+      "cardLinkLabel": "Detaylı Bilgi"
+    },
+    "klimaTipleri": {
+      "badge": "Klima Tipleri",
+      "title": "Her İhtiyaca Uygun Klima Çözümleri",
+      "description": "Ev, ofis, mağaza, restoran, otel ve endüstriyel tesisler için tüm klima tiplerinde uzman servis hizmeti sağlıyoruz.",
+      "cardLinkLabel": "İncele"
+    },
+    "hakkimizda": {
+      "badge": "Neden Biz?",
+      "title": "7-24 Klima Servisi Farkı",
+      "description": "Yılların verdiği tecrübe, güçlü teknik altyapı ve müşteri memnuniyeti odaklı yaklaşımımızla İstanbul genelinde güvenilir klima servisi sunuyoruz."
+    },
+    "iletisim": {
+      "title": "Klimanız İçin Profesyonel Destek mi Arıyorsunuz?",
+      "description": "Hemen bizi arayın, uzman ekibimiz en kısa sürede adresinize ulaşsın. Ücretsiz keşif ve teklif için aramanız yeterli."
+    }
+  },
+  "about": {
+    "numbers": [
+      { "value": "15+", "label": "Yıllık Deneyim" },
+      { "value": "10.000+", "label": "Mutlu Müşteri" },
+      { "value": "25+", "label": "Uzman Teknisyen" },
+      { "value": "7/24", "label": "Kesintisiz Hizmet" }
+    ],
+    "reasons": [
+      {
+        "iconKey": "clock",
+        "title": "7/24 Hizmet",
+        "desc": "Gece veya gündüz, hafta içi veya hafta sonu fark etmez. Bir telefon kadar yakınız."
+      },
+      {
+        "iconKey": "users",
+        "title": "Uzman Teknik Kadro",
+        "desc": "Sertifikalı ve deneyimli teknisyenlerimiz ile kaliteli ve güvenilir hizmet."
+      },
+      {
+        "iconKey": "award",
+        "title": "Garantili İşçilik",
+        "desc": "Yapılan tüm işlemler işçilik ve parça garantisi kapsamındadır."
+      },
+      {
+        "iconKey": "headphones",
+        "title": "Ücretsiz Danışmanlık",
+        "desc": "Klima seçimi, kapasite hesabı ve sistem tasarımı konusunda ücretsiz destek."
+      }
+    ],
+    "checklist": {
+      "title": "Hizmet Kapsamımız",
+      "items": [
+        "Tüm marka ve modellere servis",
+        "Orijinal ve garantili yedek parça kullanımı",
+        "Hızlı müdahale süresi",
+        "Periyodik bakım sözleşmesi",
+        "Ücretsiz keşif ve fiyat teklifi",
+        "İşçilik ve parça garantisi",
+        "Yerinde arıza tespiti",
+        "Gaz dolumu ve kaçak kontrolü"
+      ]
+    }
+  },
+  "contactCards": [
+    {
+      "iconKey": "phone",
+      "title": "Telefon",
+      "lines": ["0505 590 1203", "7/24 aktif çağrı hattı"]
+    },
+    {
+      "iconKey": "clock",
+      "title": "Çalışma Saatleri",
+      "lines": ["7 Gün 24 Saat", "Resmi tatiller dahil"]
+    },
+    {
+      "iconKey": "mapPin",
+      "title": "Hizmet Bölgesi",
+      "lines": ["İstanbul ve çevresi", "Tüm ilçelere servis"]
+    },
+    {
+      "iconKey": "mail",
+      "title": "E-posta",
+      "lines": ["info@7-24klima.com", "servis@7-24klima.com"]
+    }
+  ],
+  "footer": {
+    "description": "Profesyonel klima kurulum, tamir, bakım ve teknik servis hizmetleri. İstanbul genelinde 7 gün 24 saat hizmetinizdeyiz.",
+    "bottomLinks": [
+      { "label": "Hizmetler", "href": "/#hizmetler" },
+      { "label": "Hakkımızda", "href": "/#hakkimizda" },
+      { "label": "İletişim", "href": "/#iletisim" }
+    ],
+    "kvkk": "Kişisel verileriniz KVKK kapsamında korunmaktadır."
+  },
+  "servicePage": {
+    "backLabel": "Anasayfa",
+    "detailTitle": "Detaylı Bilgi",
+    "scopeTitle": "Hizmet Kapsamı",
+    "ctaTitle": "Hemen Randevu Alın",
+    "ctaDescTemplate": "{shortTitle} hizmetimiz hakkında detaylı bilgi almak ve randevu oluşturmak için bizi arayın.",
+    "quickContactTitle": "Hızlı İletişim",
+    "relatedTitle": "İlgili Hizmetler",
+    "faqTitle": "Sıkça Sorulan Sorular"
+  },
+  "metadata": {
+    "titleDefault": "7-24 Klima Servisi | Kurulum, Tamir, Bakım",
+    "titleTemplate": "%s | 7-24 Klima Servisi",
+    "description": "7-24 Klima Servisi - Kanallı, kaset tipi, salon tipi, duvar tipi, sanayi tipi, split, multisplit ve VRF klima sistemlerinde profesyonel kurulum, tamir ve bakım hizmeti.",
+    "ogDescription": "Profesyonel klima kurulum, tamir and bakım hizmetleri. Tüm klima tiplerinde 7 gün 24 saat hizmetinizdeyiz.",
+    "keywords": [
+      "klima servisi İstanbul",
+      "klima tamiri",
+      "klima bakımı",
+      "klima montajı",
+      "split klima servisi",
+      "VRF klima servisi",
+      "kanallı klima servisi",
+      "kaset tipi klima",
+      "7/24 klima servisi İstanbul"
+    ],
+    "locale": "tr_TR",
+    "siteName": "7-24 Klima Servisi",
+    "themeColor": "#3730a3",
+    "robots": "index, follow"
+  }
+}
